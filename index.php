@@ -9,8 +9,8 @@ try {
     $_paypal = new PayPal (
         [
             'mode'      => 'sandbox', // live
-            'client_id' => 'AcltGlbEBSYEiAaK1bXBI3Ayjl5AAdc5dCYb6cHzavwWpcOqlxqWFkIshLZu3reTQZNDD5S8TNo8vzRp',
-            'password'  => 'ENsGdYMGxgjCPe0GzUnPTrhDR3jSz5jKa0lmLNwys7c1Gy4Pr_yjHAvj0Hj8TaGdHqiwUim-0hTImutX'
+            'client_id' => '',
+            'password'  => ''
         ]
     );
 
